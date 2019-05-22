@@ -1,0 +1,41 @@
+all-in:
+  title: 360 degree photos and phototours.
+  description: "Here you can see some examples of 360-degree photo panoramas and photo tours."
+  alt: my picture photo
+  photos:
+    - item:
+      title:  "New photo 360"
+      date:   2018-10-11 09:38:50 +0300
+      categories: photo360
+      screenShot: s01
+      photoUrl: https://roundme.com/embed/373025/1275166
+    - item:
+      title:  "New photo 2 360"
+      date:   2018-10-11 15:38:50 +0300
+      categories: photo360
+      screenShot: s02
+      photoUrl: https://momento360.com/e/u/cabc398bea824c50ac3855240a76e888?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75
+    - item:
+      title:  "Mount Hoverla"
+      date:   2019-01-20 15:38:50 +0300
+      categories: photo360
+      screenShot: s03
+      photoUrl: https://roundme.com/embed/372933/1275444
+    - item:
+      title:  "New photo 4 360"
+      date:   2018-10-11 15:38:50 +0300
+      categories: photo360
+      screenShot: s04
+      photoUrl: https://momento360.com/e/u/db15729b48e94b1c8bfdbe10129f28f0?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75
+    - item:
+      title:  "New photo 5 360"
+      date:   2018-10-11 15:38:50 +0300
+      categories: photo360
+      screenShot: s05
+      photoUrl: https://momento360.com/e/u/a8411a356628482bbc48e25f5c112033?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75
+    - item:
+      title:  "New photo 6 360"
+      date:   2018-10-11 15:38:50 +0300
+      categories: photo360
+      screenShot: s06
+      photoUrl: https://momento360.com/e/u/d9f374e31d8c44ffb4c4d6cda3dd3b29?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75

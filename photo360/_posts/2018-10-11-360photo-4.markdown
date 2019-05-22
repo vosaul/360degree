@@ -1,0 +1,10 @@
+---
+layout: photo360
+title:  "New photo 4 360"
+date:   2018-10-11 15:38:50 +0300
+categories: photo360
+screenShot: s04
+photoUrl: https://momento360.com/e/u/db15729b48e94b1c8bfdbe10129f28f0?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75
+---
+
+Carpatians mountains of the Yaremche

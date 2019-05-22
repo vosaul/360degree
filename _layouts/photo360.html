@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="box__photo">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <iframe class="photo-player__item" allowfullscreen="true" src="{{ page.photoUrl }}"> 
+  </iframe>
+  
+  <div class="content">
+      {{ page.content }}
+  </div>
+</div>

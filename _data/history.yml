@@ -1,0 +1,23 @@
+title: Our history
+descr: Lorem ipsum dolor sit amet consectetur.
+items:
+  - item:
+    imageUrl: assets/img/about/1.jpg
+    period: March 2018
+    heading: We opened new affiliate
+    descr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis rutrum nunc, eget dictum massa. Nam faucibus felis nec augue adipiscing, eget commodo libero mattis.
+  - item:
+    imageUrl: assets/img/about/2.jpg
+    period: 2009-2011
+    heading: Our Humble Beginnings
+    descr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis rutrum nunc, eget dictum massa. Nam faucibus felis nec augue adipiscing, eget commodo libero mattis.
+  - item:
+    imageUrl: assets/img/about/3.jpg
+    period: april 2008
+    heading: We made first work
+    descr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis rutrum nunc, eget dictum massa. Nam faucibus felis nec augue adipiscing, eget commodo libero mattis.
+  - item:
+    imageUrl: assets/img/about/4.jpg
+    period: March 2008
+    heading: An Agency is Born
+    descr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis rutrum nunc, eget dictum massa. Nam faucibus felis nec augue adipiscing, eget commodo libero mattis.

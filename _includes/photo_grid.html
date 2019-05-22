@@ -1,0 +1,19 @@
+<section class="fotobox" id="photo360">
+  <div class="fotobox__title wrapper">
+    <h2 class="section-heading">{{site.data.portfolio.all-in.title}}</h2>
+    <p class="text-center">{{site.data.portfolio.all-in.description}}</p>
+  </div>
+
+  <div class="fotobox__grid">
+    {% for img in site.data.portfolio.all-in.photos %}
+      <a class="photo360" href="{{ img.photoUrl }}">
+        <img class="photo-player__tumblr" src="assets/img/photos360/{{img.screenShot}}.jpg" alt="{{site.data.portfolio.all-in.alt}}">
+      </a>
+    {% endfor %}
+  </div> <!--  fotobox__grid end  -->
+
+  <h2>Google Virtual Tour</h2>
+        <a class="photo360 google_tour" href="https://www.google.com/maps/embed?pb=!4v1544729123459!6m8!1m7!1sCAoSLEFGMVFpcE5USG8xZUFpX2ZJY2tzdm5zUm5MbGhMQ2dXaGs3d1NRN2tGZ1Vl!2m2!1d49.41029333287742!2d26.61859000916295!3f108.85!4f-17.92!5f0.4000000000000002">
+        <img class="google-player__tumblr" src="assets/img/photos360/t01.jpg" alt="google vr tour">
+      </a>
+</section>

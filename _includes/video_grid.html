@@ -1,0 +1,16 @@
+<section class="videobox" id="video360">
+  <h2>{{site.data.videogrid.title}}</h2>
+  <p class="wrapper">{{site.data.videogrid.description}}</p>
+
+  <div class="youtube__grid">
+    {% for video in site.data.videogrid.items %}
+    <div class="box__video">
+      <div class="video__container">
+        <a class="video360" href="{{ video.videoUrl }}"><img class="photo-player__tumblr" src="assets/img/photos360/{{video.screenShot}}.jpg" alt="video">
+      </a>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>

@@ -1,0 +1,11 @@
+---
+layout: photo360
+title:  "New photo 360"
+date:   2018-10-11 09:38:50 +0300
+categories: photo360
+screenShot: s01
+photoUrl: https://momento360.com/e/u/2fd220bbf9444a94974cd79b2939d78f?utm_campaign=embed&utm_source=other&utm_medium=other&heading=34.4&pitch=0.6000000000000001&field-of-view=75
+---
+
+Colourful mountains of the Zhangye Danxia Geopark, China
+

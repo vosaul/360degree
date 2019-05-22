@@ -1,0 +1,26 @@
+<!-- Services Section -->
+<section id="services">
+ 
+  <div class="wrapper_grid">
+    <div class="container wrapper services__grid">
+        <div class="services__header text-center">
+          <h2 class="section-heading">{{site.data.services.header}}</h2>
+          <h3 class="section-subheading text-muted">{{site.data.services.subheader}}</h3>
+        </div>
+       {% for serv in site.data.services.items %}
+        <div class="row text-center">
+          <div class="service__grid_pict">
+            <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa {{serv.pict}} fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+          <div>
+            <h4 class="service-heading">{{serv.heading}}</h4>
+            <p class="text-muted">{{serv.descr}}</p>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+  </div>
+</section>
