@@ -4,14 +4,21 @@
 {%- include head.html -%}
 
 <body>
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&autoLogAppEvents=1&version=v7.0&appId=2221186131243148"></script>
 
   {%- include header.html -%}
   
   <main class="page-content" aria-label="Content">
     <div>
       {{ content }}
+      <div class="fb-comments_box">
+        <div class="fb-comments" data-href="https://360degree.netlify.app/" data-numposts="5" data-width="" data-colorscheme="dark"></div>
+      </div>
     </div>
   </main>
+
 
   {%- include footer.html -%}
 

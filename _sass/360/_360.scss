@@ -8,6 +8,13 @@
   font-style: normal;
   font-weight: normal;
 }
+.fb-comments_box {
+  margin: 40px auto;
+  display: grid;
+  .fb-comments_box {
+    width: 60%;
+}
+}
 body {
   overflow-x: hidden;
   background-color: #000;
