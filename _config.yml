@@ -19,7 +19,7 @@ email: fligmus@gmail.com
 # this means to ignore newlines until "baseurl:"
 description: We can create panoramas that will rock your world! We use state-of-the-art technology, and We are constantly upgrading our software/hardware and improving our techniques to ensure your viewers enjoy an engaging and professional 360° photo stitch.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://360degree.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://360degree.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VSaulyak
 github_username:  vosaul
 facebook_username: vosaul
